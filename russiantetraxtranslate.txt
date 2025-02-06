@@ -1,0 +1,577 @@
+-- made by Dinga
+
+-- Tabs
+
+Main > Главная
+
+Players > Игроки
+
+Risky > Рискованно 
+
+Magick > Магия
+
+Cash > Деньги
+
+ItemFarm > Фарм Предметов
+
+Buy > Купить
+
+Teleport > Телепорты
+
+Visuals > Визуал
+
+Other > Другое
+
+Testing > Тест
+
+
+
+Player Settings > Настройки Игрока
+
+TPWalk Speed > Скорость ТП Ходьбы
+
+TPWalk > ТП Ходьба
+
+AimAssist > Аим Ассист
+
+Coffee Speed - Скорость Кофе
+
+FOV > Поле Зрения
+
+Jump Power > Силы Прыжка
+
+Use JumpPower > Использовать Силу Прыжка
+
+Infinite Jump > Бесконечные Прыжки
+
+ Auto Mask > Авто Маска
+
+Invisible
+activates invisible keybing...
+>
+Невидимость
+Включает невидимость. Кейбинд [Х]
+
+Clown Hat > Шапка Клоуна
+
+Police Uniform > Полицейская униформа
+
+Animations
+Change animation
+>
+Анимации
+Изменяет анимацию
+
+Player Teleport > Телепорты К Игрокам
+
+Kill Position 
+Selects Kill Position
+>
+Килл Позиция
+Выбирает килл позицию (скрытная или не скрытная)
+
+Select Player
+Select
+>
+Выбрать Игрока
+Выбрать
+
+TP 
+Teleport to selected player
+>
+ТП
+Телепортирует на выбранного игрока
+
+Spectate Player
+>
+Наблюдать За Игроков
+Наблюдает на выбранным игроком 
+
+Auto TP
+>
+Авто ТП
+
+Auto Kill
+Kills selected player
+>
+Авто Килл
+Убивает по кд выбранного игрока 
+
+Z Position > Z Позиция
+
+Y Position > Y Позиция
+
+Player Bring > Притягивание Игрока
+
+Loopbring [Client sided]
+Brings player
+>
+Притягивание Игрока [Клиент]
+Притягивает выбранного игрока
+
+Players Kill > Убийства Игроков
+
+Select Mode 
+Selects mode
+>
+Выбрать Опцию
+Выбирает опцию
+
+Auto Kill Players
+Auto kill all or nearest
+>
+Авто Килл Игроков
+Авто килляет всех или ближайших игроков
+
+Distance 
+distance for nearest mode
+>
+Дистанция
+Дистанция для ближнего мода
+
+Aura settings
+Damage ty...
+>
+Настройки Ауры
+Виды урона бывают разные. Для примера: можно взять нож и использывать ауру meleemegaswing или meleeswing
+
+Damage Type
+Kill aura type
+>
+Тип урона
+Тип килл ауры
+
+Kill Aura
+Equip...
+>
+Килл аура
+Возьмите в руки кулами либо оружие ближнего боя
+
+Distance
+>
+Дистанция
+
+Kill Aura When Knocked
+Equip...
+>
+Килл Аура Когда Кнокнутый
+Для начала экипируйте кулаки
+
+Super Punch
+No delay
+>
+Мега Удар
+Без перезарядки
+
+Stomp Aura
+Activate...
+>
+Стомп Аура
+Активируйте чтобы стомпать ближайших игроков
+
+Grab Aura
+Activate...
+>
+Граб аура
+Активируйте чтобы подбирать ближайших кнокнутых игроков
+
+Select Mode
+Mode for phone...
+>
+Выберете режим
+Ркжим чтобы спаммить телефоном
+
+Select Player
+Required...
+>
+Выберете Игрока
+Требуется плеер режим
+
+Spam Message
+Message to spam...
+>
+Спам Сообщение
+Сообщение спама или рандом
+
+Spam Call/Msg
+>
+Спам Звонков/СМС 
+
+Other Settings
+Manual...
+>
+Другие Настройки
+Некоторые функции могут не работать, анти граб не работает на авто граб
+
+Anti Grab
+Auto...
+>
+Анти Граб
+Автоматические бросает вас если вас подняли
+
+Anti Ragdoll
+No ragdoll
+>
+Анти Рагдолл
+Без рагдолла
+
+Anti Stun
+No stun
+>
+Анти Стан
+Без стана
+
+Silent Block
+Auto...
+>
+Силент Блок
+Авто блокает и скрывает анимацию
+
+Destroy Nearest Venicle [Fists]
+Activate...
+>
+Уничтожение Ближайшего Транспорта [Руками]
+Активируйте и возьмите кулаки чтобы разрушить ближайший транспорт
+
+Main
+>
+Главная
+
+HitPart
+Selects...
+>ХитПарт
+Выберете часть тела игрока для всех опций
+
+Spammer Mode
+This...
+>
+Спаммер Мод
+Не работает для силент пули
+
+Select player
+Requ...
+>
+Выбрать игрока
+Требуется опция Игрока
+
+Silent Bullet
+Activate...
+>
+Силент Пуля
+Активирует силент пулю
+
+FOV Circle Visible
+For circle...
+>
+Круг Аима Виден
+Для видимости круга
+
+FOV Radius
+Radius
+>
+Радиус круга
+Радиус
+
+FOV Circle Color
+>
+Цает круга
+
+OP Spammers
+>
+Имбовые Спаммеры
+
+RPG Spammer 
+Spams...
+>
+РПГ Спаммер
+Спас ракетами на ближайшего или выбранного игрока
+
+RPG Enemy Health
+Health
+>
+Здоровье РПГ Врага
+Здоровье
+
+RPG Distance
+Distance
+>
+Дистанция РПГ
+Дистанция
+
+Flamethrower & AcidGun
+Knock or kills nearest
+>
+Огнемет и Акид Ган
+Убивает или кнокает ближайшего
+
+Flame/Acid Distance
+Distance
+>
+Дистанция Огнемета/Акид Гана
+Дистанция
+
+Spray Type
+Selects Spray kind
+>
+Тип спрея 
+Выбирает тим спрея
+
+Spray Distance
+Distance
+>
+Дистанция Спрея 
+Дистанция
+
+Auto Farm > Авто Фарм
+
+Farm Mode
+Mode...
+>
+Фарм Режимы
+Режимы для банка или автоматов
+
+ATM Farm Position
+Changes position
+>
+Позиция Авто Фарма Банкоматов
+Изменяет позицию
+
+ATM/Cash Register Farm
+Farms atms & cash registers 
+>
+Фарм Банкоматов/Кассы 
+Фармит деньги из кассы и банкоматов
+
+Bank Farm
+Farms Bank
+>
+Банк Фарм
+Фармит банк
+
+Cash Farm
+Farms cash +$300
+>
+Кеш Фарм
+Фармит кеш +$300
+
+Slotmachine Farm
+Farms...
+>
+Фарм Лохотронов
+Фармит лохотроны на резете
+
+JewelryCase Farm Mode
+Mode...
+>
+Режим Фарма Ювелирки
+Мод для фарма вещей с ювелирки
+
+JewerlyCase Farm
+Farms all gems
+>
+Фарм Ювелирки
+Фармит все гемы
+
+Treasure Farm
+Farms...
+>
+Фарм Карты Сокровищ
+Фармит карту, возьмите её в руки
+
+Dumbell Farm
+Farms...
+>
+Фарм Мышц
+Фармит Мышцы
+
+Other > Другое
+
+Open Nearest
+Opens...
+>
+Открыть Ближайшее 
+Открывает банк/сейфы/сундуки
+
+Sell Mode
+Mode...
+>
+Режим Продаж
+Мод для продажи на блек маркет
+
+BlackMarket Sell
+Sells items
+>
+Продажа На Блек Маркет
+Продает предметы
+
+Cash Aura
+Collects...
+>
+Кеш Аура
+Собирает ближайший кеш
+
+Item Aura
+Collects...
+>
+Аура Предметов
+Собирает только хорошие предметы
+
+Collect TruckCash
+Collects...
+>
+Собирание Инкассатора 
+Собирает деньги с машины банка когда близко 
+
+Destroy Nearest ATM
+Equip...
+>
+Ломание Ближайшего Банкомата
+Экипируйте кулаки чтобы ломать ближайший банкомат 
+
+Item Farm Settings > Настройки Фарма Предметов
+
+Auto Clean Inventory 
+Destroy...
+>
+Авто Отчиска Инвентаря
+Уничтожает все мусорные предметы
+
+Auto Delete Lcked Items 
+Destroys...
+>
+Авто Удаление Закрытых Предметов
+Уничтожает все предметы которые закрыты в локерах. Для АФК фарма
+
+Treasure Items
+Farms...
+>
+Сокровищные Предметы
+Фарм всех сокровищ (ракушки, карты)
+
+Component Boxes
+Farms...
+>
+Боксы С Компонентами
+Фармит и авто открывает все боксы
+
+Money Printer
+Farms money printer 
+>
+Мани Принтер
+Фармит принтачок
+
+Gold Guns
+Farms...
+>
+Голд Ганы
+Фармит все золотые оружки
+
+Presents & Lucky Blocks
+farms...
+>
+Подарки И Лаки Блоки
+Фармит и открывает их
+
+Rare Gems
+farms...
+>
+Редкие Гемы
+Фармит редкие гемы
+
+Rarest Items
+farms...
+>
+Редкие Предметы
+Фармит все редкие предметы
+
+Red Card
+farms....
+>
+Красная Карта
+Фармит военную карту
+
+Blue Card
+Farms...
+>
+Синяя Карта
+Фармит карту от полицки
+
+Gold Bar
+Farms...
+>
+Золотые Слитки
+Фармит все голд слитки
+
+Venicle Keys
+farms...
+>
+Ключи От Транспорта
+Фармит все ключи
+
+Select Item
+>
+Выберете Предмет
+
+Buy Prompt
+Show...
+>
+Промит Покупки
+Показывает меню покупки
+
+Goto > К Кому То
+
+Custom Teleports > Кастомные Телепорты
+
+Teleport Spawn & Old CFrame
+>
+Телепорт Спавн и Старый КФрейм
+
+Tween Style
+>
+Стиль Пересещения
+
+Tween Speed 
+>
+Скорость Перемещения 
+
+Teleport Random
+>
+Рандом Телепорт
+
+ESP > Просветка
+
+Sky Settings > Настройки Неба
+
+Sky Color > Цвет Неба
+
+Rainbow Sky
+>
+Радужное Небо
+
+Scripts > Скрипты
+
+Inside this tab...
+>
+В этом табе вы можете найти скрипты сделанные мной если кто то хочет собственный скрипт сделанный мной это может быть не бесплатно. Если скрипт закрыт значит сейчас закрыт
+
+[ЮЗЕРАМ ВЕЙВА] 4A1D34 может не работать для всех
+
+TeTraX V1 > Тетракс Версия 1
+
+Select Skin > Выберете Скин
+
+Fly
+Activates fly
+>
+Полёт
+Включает полёт 
+
+Fly Speed
+>
+Скорость полета
+
+Auto Farm Ammo Box
+Equip...
+>
+Авто Фарм Бокса Патронов
+Возьмите ган - все патроны на карте с боксов возьмутся 
